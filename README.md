@@ -42,8 +42,9 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  &nbsp
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  &nbsp
-   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+  <!-- <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+-->
 </p>
 
 <!--
