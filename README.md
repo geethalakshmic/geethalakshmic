@@ -3,14 +3,14 @@
 -->
 
 <h1 align="left">Hi 👋, I'm C.Geethalakshmi B.Tech IT</h1>
-<h3 align="left">Senior Software Engineer | Proficient at Problem Solving</h3>
+<h3 align="left">Application Development Analyst | Proficient at Problem Solving</h3>
 </br>
 
 - 🔭 I’m currently working at **Accenture**
 
 - 📫 Reach me out here --> **cp.geethalakshmi@gmail.com**
 
-- ⚡ Fun fact --> Surfing though internet to gain knowledge
+- ⚡ Fun fact --> Surfing through internet to gain knowledge
 
 </br>
 
