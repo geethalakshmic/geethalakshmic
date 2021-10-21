@@ -6,7 +6,7 @@
 <h3 align="left">Senior Software Engineer | Proficient at Problem Solving</h3>
 </br>
 
-- 🔭 I’m currently working at **Novac Technology Solutions**
+- 🔭 I’m currently working at **Accenture**
 
 - 📫 Reach me out here --> **cp.geethalakshmi@gmail.com**
 
